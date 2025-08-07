@@ -57,5 +57,5 @@
 # Netlify предназначен для статических сайтов и Serverless Functions.
 # Запуск полноценного Node.js сервера с `app.listen()` здесь невозможен.
 # === КОНЕЦ ВАЖНО ===
-[dev]
-  command = "npm start"
+#[dev]
+#  command = "npm start"
