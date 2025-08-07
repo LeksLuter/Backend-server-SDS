@@ -59,5 +59,3 @@
 # === КОНЕЦ ВАЖНО ===
 [dev]
   command = "node server.js"
-  port = 3001
-  publish = "dist"
