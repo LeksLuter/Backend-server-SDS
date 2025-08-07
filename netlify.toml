@@ -58,4 +58,4 @@
 # Запуск полноценного Node.js сервера с `app.listen()` здесь невозможен.
 # === КОНЕЦ ВАЖНО ===
 [dev]
-  command = "node server.js"
+  command = "npm run dev"
